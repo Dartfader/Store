@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b53caf0-6dec-4551-b0c7-1b746a3d9c73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/view/stylesheet/bootstrap.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/product/product.twig" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/product/product.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,7 +51,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615830274060</updated>
-      <workItem from="1615830275585" duration="582000" />
+      <workItem from="1615830275585" duration="1114000" />
+      <workItem from="1615831439528" duration="1639000" />
+      <workItem from="1616171882361" duration="181000" />
+      <workItem from="1616238573593" duration="958000" />
+      <workItem from="1616344283801" duration="16813000" />
     </task>
     <servers />
   </component>
@@ -52,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
